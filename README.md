@@ -1,6 +1,6 @@
 # MiraiGo-module-chess
 
-ID: `aimerneige.chess`
+ID: `com.aimerneige.chess`
 
 Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
