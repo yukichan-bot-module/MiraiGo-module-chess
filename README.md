@@ -8,6 +8,8 @@ Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
 本项目是 [MiraiChess](https://github.com/aimerneige/MiraiChess) 的模块化版本，用于方便整合入其他机器人。如果你只是想部署一个国际象棋机器人，请查阅 [MiraiChess](https://github.com/aimerneige/MiraiChess)。
 
+一般地，为保证稳定性，本模块会落后主仓库几个版本，如果你想要体验新功能，请使用 [MiraiChess](https://github.com/aimerneige/MiraiChess)。
+
 ## 功能
 
 - 可以在群内下国际象棋
