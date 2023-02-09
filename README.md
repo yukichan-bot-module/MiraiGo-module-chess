@@ -24,6 +24,8 @@ Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 - [python](https://www.python.org/downloads/)
 - [python-chess](https://github.com/niklasf/python-chess)\
 `pip install python-chess`
+- [pgn2gif](https://github.com/dn1z/pgn2gif)\
+`git clone https://github.com/dn1z/pgn2gif.git && cd pgn2gif && sudo python setup.py install`
 - [inkscape](https://inkscape.org/)\
 直接执行 `download_inkscape.sh` 即可
 
